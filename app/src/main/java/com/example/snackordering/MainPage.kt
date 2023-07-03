@@ -60,8 +60,6 @@ class MainPage : ComponentActivity() {
         }
     }
 }
-
-
 @Composable
 fun TopPart(context: Context) {
 
